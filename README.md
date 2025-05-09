@@ -1,2 +1,2 @@
 # FirstRepo
-Training
+Trainning
